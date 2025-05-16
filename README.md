@@ -1,4 +1,4 @@
-This is CLI app for NetSchool (else named Сетевой Город), it uses various api NetSchool endpoints, so you can use this CLI app on daily basis.
+This is CLI app for NetSchool (else named Сетевой Город), it uses various API NetSchool endpoints, so you can use this CLI app on daily basis.
 
 > [!WARNING]
 > You MUST use Python 3.9
